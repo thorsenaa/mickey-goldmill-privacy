@@ -1,13 +1,13 @@
 # Privacy Policy
 
-**FocusRep — Workout Tracker**
-Last updated: May 26, 2026
+**Mickey Goldmill — Workout Tracker**
+Last updated: June 1, 2026
 
 ---
 
 ## What We Collect
 
-FocusRep collects only what is necessary to provide the app's core functionality.
+Mickey Goldmill collects only what is necessary to provide the app core functionality.
 
 **Account information**
 When you sign in with Apple, we receive your name and email address (or Apple's anonymized relay address if you choose to hide your email). This is used solely to create and identify your account.
@@ -25,7 +25,7 @@ We store the workout templates, session logs, schedules, and streak data you cre
 
 ## How Your Data Is Used
 
-Your data is used exclusively to operate FocusRep. We do not sell, share, or disclose your data to third parties for any purpose.
+Your data is used exclusively to operate Mickey Goldmill. We do not sell, share, or disclose your data to third parties for any purpose.
 
 ## Data Storage
 
@@ -33,11 +33,13 @@ Your workout data is stored on your device using local storage and synced to a s
 
 ## Data Deletion
 
-To delete your data, contact us at the email below and we will remove your account and all associated data within 30 days.
+You can delete your account and all associated cloud data at any time from **Profile → Settings → Delete account** (type DELETE to confirm). This permanently removes your account, workout data, and profile from our servers.
+
+For help, contact us at the email below.
 
 ## Children
 
-FocusRep is not directed at children under 13. We do not knowingly collect data from children under 13.
+Mickey Goldmill is not directed at children under 13. We do not knowingly collect data from children under 13.
 
 ## Changes to This Policy
 
@@ -45,5 +47,5 @@ If we make material changes to this policy, we will update the date at the top o
 
 ## Contact
 
-For privacy questions or data deletion requests:
+For privacy questions:
 **thorsen120@gmail.com**
